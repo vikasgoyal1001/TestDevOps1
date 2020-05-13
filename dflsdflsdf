@@ -1,0 +1,51 @@
+[33mcommit 0e0e8eebad2b3aed9ca0bf16af5fb73df6a0e2d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: root <root@DESKTOP-G2N7AKR.localdomain>
+Date:   Tue May 12 21:24:53 2020 +0530
+
+    a.txt
+
+[1mdiff --git a/a.txt b/a.txt[m
+[1mindex 978a132..39c02be 100644[m
+[1m--- a/a.txt[m
+[1m+++ b/a.txt[m
+[36m@@ -2,4 +2,6 @@[m [mflksfslffj[m
+ vslnvlvnsl[m
+ ljsbjlsfls[m
+ ss'lbfbas'fs[m
+[31m-sasblsbffbsfbn[m
+[32m+[m[32msasblsbffbsf[m
+[32m+[m
+[32m+[m[32mThird cvhanges to the file[m
+
+[33mcommit 301fb22a08479d1b1943e913051a65f8b4d61da6[m
+Author: root <root@DESKTOP-G2N7AKR.localdomain>
+Date:   Tue May 12 21:22:13 2020 +0530
+
+    first change to the file
+
+[1mdiff --git a/a.txt b/a.txt[m
+[1mindex 070b8de..978a132 100644[m
+[1m--- a/a.txt[m
+[1m+++ b/a.txt[m
+[36m@@ -1,2 +1,5 @@[m
+ flksfslffj[m
+[31m-vslnvlvnsln[m
+[32m+[m[32mvslnvlvnsl[m
+[32m+[m[32mljsbjlsfls[m
+[32m+[m[32mss'lbfbas'fs[m
+[32m+[m[32msasblsbffbsfbn[m
+
+[33mcommit bbca97df2cdbd56e7915e92b5740dab378ae441d[m
+Author: root <root@DESKTOP-G2N7AKR.localdomain>
+Date:   Tue May 12 21:17:12 2020 +0530
+
+    First commit
+
+[1mdiff --git a/a.txt b/a.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..070b8de[m
+[1m--- /dev/null[m
+[1m+++ b/a.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mflksfslffj[m
+[32m+[m[32mvslnvlvnsln[m
